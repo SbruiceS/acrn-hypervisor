@@ -32,7 +32,7 @@
     "node-fetch": "^2.6.7",
     "sass": "^1.50.0",
     "vfonts": "^0.0.3",
-    "vue": "3.2.33",
+    "vue": "3.5.14",
     "vue-router": "4"
   },
   "overrides": {
